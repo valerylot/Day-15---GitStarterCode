@@ -3,4 +3,4 @@
 
 const greeting = document.getElementById("greeting");
 
-greeting.textContent = "Hello from scripts.js! I made some changes on git hub and now we will pull them on to our local machine. This is my test branch 👋";
+greeting.textContent = "Hello from scripts.js! I made some changes on git hub and now we will pull them on to our local machine. This is my test branch 👋 I added more code";
